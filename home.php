@@ -7,6 +7,8 @@
 </head>
 <body>
 
+<h1>Hello</h1>
+
 <?php
 echo '<p style="text-align: center; color: green;">Xin chào TMU</p>';
 echo '<button style="background-color:red;">click</button>';
